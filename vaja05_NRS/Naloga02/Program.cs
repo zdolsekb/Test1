@@ -19,6 +19,8 @@ namespace Naloga02
         {
             
             //komentar
+
+            // SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
             DateTime dr = new DateTime(2001, 2, 12);
             DateTime dr2 = new DateTime(1987, 3, 2);
 
