@@ -1,0 +1,12 @@
+D:\Users\Marko\documents\visual studio 2013\Projects\vaja05_NRS\Naloga04\bin\Debug\Naloga04.exe.config
+D:\Users\Marko\documents\visual studio 2013\Projects\vaja05_NRS\Naloga04\bin\Debug\Naloga04.exe
+D:\Users\Marko\documents\visual studio 2013\Projects\vaja05_NRS\Naloga04\bin\Debug\Naloga04.pdb
+D:\Users\Marko\documents\visual studio 2013\Projects\vaja05_NRS\Naloga04\obj\Debug\Naloga04.exe
+D:\Users\Marko\documents\visual studio 2013\Projects\vaja05_NRS\Naloga04\obj\Debug\Naloga04.pdb
+D:\Users\Marko\documents\visual studio 2013\Projects\vaja05_NRS\Naloga04\obj\Debug\Naloga04.csprojResolveAssemblyReference.cache
+C:\Users\Blaž\Desktop\vaja05_NRS\Naloga04\bin\Debug\Naloga04.exe.config
+C:\Users\Blaž\Desktop\vaja05_NRS\Naloga04\obj\Debug\Naloga04.exe
+C:\Users\Blaž\Desktop\vaja05_NRS\Naloga04\obj\Debug\Naloga04.pdb
+C:\Users\Blaž\Desktop\vaja05_NRS\Naloga04\bin\Debug\Naloga04.exe
+C:\Users\Blaž\Desktop\vaja05_NRS\Naloga04\bin\Debug\Naloga04.pdb
+C:\Users\Blaž\Desktop\vaja05_NRS\Naloga04\obj\Debug\Naloga04.csprojResolveAssemblyReference.cache

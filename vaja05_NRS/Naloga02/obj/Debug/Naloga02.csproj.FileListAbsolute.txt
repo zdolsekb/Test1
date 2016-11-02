@@ -1,0 +1,8 @@
+d:\users\marko\documents\visual studio 2013\Projects\vaja05_NRS\Naloga02\bin\Debug\Naloga02.exe.config
+d:\users\marko\documents\visual studio 2013\Projects\vaja05_NRS\Naloga02\bin\Debug\Naloga02.exe
+d:\users\marko\documents\visual studio 2013\Projects\vaja05_NRS\Naloga02\bin\Debug\Naloga02.pdb
+d:\users\marko\documents\visual studio 2013\Projects\vaja05_NRS\Naloga02\obj\Debug\Naloga02.exe
+d:\users\marko\documents\visual studio 2013\Projects\vaja05_NRS\Naloga02\obj\Debug\Naloga02.pdb
+C:\Users\Blaž\Desktop\vaja05_NRS\Naloga02\bin\Debug\Naloga02.exe.config
+C:\Users\Blaž\Desktop\vaja05_NRS\Naloga02\obj\Debug\Naloga02.exe
+C:\Users\Blaž\Desktop\vaja05_NRS\Naloga02\obj\Debug\Naloga02.pdb
