@@ -7,10 +7,14 @@ using System.Threading.Tasks;
 namespace Naloga02
 {
     //random comment for GITHub
+
+
+        //še en komentar
     class Program
     {
         static void Main(string[] args)
         {
+            int c = 0;
             DateTime dr = new DateTime(2001, 2, 12);
             DateTime dr2 = new DateTime(1987, 3, 2);
 
