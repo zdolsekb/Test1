@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Naloga02
 {
+    //random comment for GITHub
     class Program
     {
         static void Main(string[] args)

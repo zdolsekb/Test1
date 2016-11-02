@@ -10,3 +10,6 @@ C:\Users\Blaž\Desktop\vaja05_NRS\Naloga04\obj\Debug\Naloga04.pdb
 C:\Users\Blaž\Desktop\vaja05_NRS\Naloga04\bin\Debug\Naloga04.exe
 C:\Users\Blaž\Desktop\vaja05_NRS\Naloga04\bin\Debug\Naloga04.pdb
 C:\Users\Blaž\Desktop\vaja05_NRS\Naloga04\obj\Debug\Naloga04.csprojResolveAssemblyReference.cache
+C:\Users\Blaz\Documents\GitHub\Test1\vaja05_NRS\Naloga04\bin\Debug\Naloga04.exe.config
+C:\Users\Blaz\Documents\GitHub\Test1\vaja05_NRS\Naloga04\obj\Debug\Naloga04.exe
+C:\Users\Blaz\Documents\GitHub\Test1\vaja05_NRS\Naloga04\obj\Debug\Naloga04.pdb
