@@ -10,11 +10,15 @@ namespace Naloga02
 
 
         //še en komentar
+
+
+
     class Program
     {
         static void Main(string[] args)
         {
-            int c = 0;
+            
+            //komentar
             DateTime dr = new DateTime(2001, 2, 12);
             DateTime dr2 = new DateTime(1987, 3, 2);
 
